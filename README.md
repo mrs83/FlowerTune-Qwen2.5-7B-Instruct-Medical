@@ -49,6 +49,7 @@ This methodology enabled efficient fine-tuning within constrained resources whil
 - **pubmedqa**: 0.446
 - **medqa**: 0.5545954438334643
 - **medmcqa**: 0.390628735357399
+- **average**: 0.4637413930636211
 
 ### Communication Budget
 
