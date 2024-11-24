@@ -13,9 +13,8 @@ The fine-tuning results have been submitted as a PEFT adapter and can be accesse
 
 ## Methodology
 
-This baseline performs federated LLM fine-tuning with [LoRA](https://arxiv.org/pdf/2106.09685) using the [🤗PEFT](https://huggingface.co/docs/peft/en/index) library.
+This experiment performs federated LLM fine-tuning with [LoRA](https://arxiv.org/pdf/2106.09685) using the [🤗PEFT](https://huggingface.co/docs/peft/en/index) library.
 The clients' models are aggregated with FedProx strategy.
-This provides a baseline performance for the leaderboard of Medical challenge.
 
 ### Qwen2.5-7B-Instruct
 
